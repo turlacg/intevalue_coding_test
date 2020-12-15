@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "fromCurrency": "PHP",
+    "toCurrency" : "USD",
+    "rate" : 48.0724652442
+
+  },
+  {
+    "id": 2,
+    "fromCurrency": "PHP",
+    "toCurrency" : "EUR",
+    "rate" : 58.4526025673
+
+  },
+  {
+    "id": 3,
+    "fromCurrency": "PHP",
+    "toCurrency" : "GBP",
+    "rate" : 64.5885137786
+
+  },
+  {
+    "id": 4,
+    "fromCurrency": "PHP",
+    "toCurrency" : "INR",
+    "rate" : 0.6539381379
+
+  },
+  {
+    "id": 5,
+    "fromCurrency": "PHP",
+    "toCurrency" : "AUD",
+    "rate" : 36.3707172476
+
+  },
+  {
+    "id": 6,
+    "fromCurrency": "PHP",
+    "toCurrency" : "CAD",
+    "rate" : 37.8081191655
+
+  },
+  {
+    "id": 7,
+    "fromCurrency": "PHP",
+    "toCurrency" : "SGD",
+    "rate" : 36.0766916017
+
+  },
+  {
+    "id": 8,
+    "fromCurrency": "PHP",
+    "toCurrency" : "CHF",
+    "rate" : 54.2576156735
+
+  },
+  {
+    "id": 9,
+    "fromCurrency": "PHP",
+    "toCurrency" : "MYR",
+    "rate" : 11.8561886173
+
+  },
+  {
+    "id": 10,
+    "fromCurrency": "PHP",
+    "toCurrency" : "JPY",
+    "rate" : 0.4634909074
+
+  }
+  
+]
